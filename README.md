@@ -6,7 +6,7 @@ Im Ordner zzzReleasedPackedMods befinden sich die fertig kompilierten Mods.
 
 
 Faster Train:
-https://ficsit.app/mod/6dzqRtxrhb12q7
+https://ficsit.app/mod/FasterTrain
 
 Changelog:
 - v.1.0.0 - Erste Version
@@ -14,7 +14,7 @@ Changelog:
 
 
 NuklearMatsCheat:
-https://ficsit.app/mod/EQN41KyUbPfKfy
+https://ficsit.app/mod/NuklearMatsCheat
 
 Changelog:
 - v.1.0.0 - Erste Version
