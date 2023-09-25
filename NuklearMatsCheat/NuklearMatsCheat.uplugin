@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
+	"VersionName": "1.0.1",
 	"FriendlyName": "NuklearMatsCheat",
 	"Description": "Nuklear Materialien Cheats",
 	"Category": "Modding",
@@ -13,5 +13,11 @@
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false
+	"Installed": false,
+	"SemVersion": "1.0.1"
+	"Plugins": [		{
+		"Name": "SML",
+		"Enabled": true,
+		"SemVersion": "^3.5.1"
+} ] 
 }
